@@ -8,20 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-here comes my bio
-Lorem ipsum.
+?? to EDIT ??
+was born in Minsk, Belarus, in 1989. He graduated in physics from the Universit\'e libre de Bruxelles (Brussels, Belgium) in 2013 and defended his PhD in 2017 under the direction of Prof. S. Massar. 
+From 2017 to 2018 he was a Post-Doctoral researcher with the LMOPS EA-4423 and the Chair in Photonics at CentraleSupélec in Metz, France. In October 2018, he obtained a permanent position of Associate Professor at CentraleSupélec, Metz Campus, with the LMOPS EA-4423 and the Chair in Photonics. His research activities combine machine learning, photonics, and FPGA programming, with applications in telecommunications, computer vision and biomedical imaging. To this day, Dr. Antonik authored and co-authored 1 book, 11 articles in peer-reviewed journals and more than 20 contributions to international conferences. His PhD thesis won the Springer Theses Award and was published in the Springer Theses collection.
 
 Research projects
 =====
 intro about my projects
 
-Project 1
+Human action recognition in videos
 -----
-some text about project 1
+some text
+figure from IEEE
 
-Project 2
+Analogue readout layer for photonic time-delay reservoir computing
 -----
-some text about project 2
+some text
+figure from my cogn computation paper
+Collaborators: Serge Massar (ULB)
+
+Large-scale parallel photonic reservoir computer
+-----
+some text
+figure from our Nature MI
+Collaborators: Daniel Brunner (FEMTO-ST), Damien Rontani (CS), Nicolas Marsal (CS)
+
+Real-time tissue segmentation (...)
+-----
+some text
+figure from my thesis
+Collaboration: Thomas Milner (UTexas)
+
+FPGA IBM
+-----
+some text
+figure from JB's conf paper
+Collaboration: IBM Japan
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 A data-driven personal website
