@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-?? to EDIT ??
-was born in Minsk, Belarus, in 1989. He graduated in physics from the Universit\'e libre de Bruxelles (Brussels, Belgium) in 2013 and defended his PhD in 2017 under the direction of Prof. S. Massar. 
-From 2017 to 2018 he was a Post-Doctoral researcher with the LMOPS EA-4423 and the Chair in Photonics at CentraleSupélec in Metz, France. In October 2018, he obtained a permanent position of Associate Professor at CentraleSupélec, Metz Campus, with the LMOPS EA-4423 and the Chair in Photonics. His research activities combine machine learning, photonics, and FPGA programming, with applications in telecommunications, computer vision and biomedical imaging. To this day, Dr. Antonik authored and co-authored 1 book, 11 articles in peer-reviewed journals and more than 20 contributions to international conferences. His PhD thesis won the Springer Theses Award and was published in the Springer Theses collection.
+Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr) ([Metz campus](https://metz.centralesupelec.fr)) with the LMOPS EA-4423 lab and the Chair in Photonics. My research activities combine machine learning, photonics, and FPGA programming, with applications in telecommunications, computer vision and biomedical imaging. My teaching duties ...
+Besides science, I'm passionate about sports (such as cycling, esp. mountain biking, running and badminton), travelling and music.
 
 Research projects
 =====
