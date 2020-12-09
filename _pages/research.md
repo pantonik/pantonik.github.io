@@ -9,7 +9,7 @@ A very nice thing about interdisciplinary research, at the intersection of machi
 
 Human action recognition in videos
 -----
-### Keywords: computer vision, silhouette segmentation, feature extraction, ...
+###### Keywords: computer vision, silhouette segmentation, feature extraction, ...
 
 some text
 figure from IEEE
