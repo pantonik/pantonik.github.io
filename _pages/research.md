@@ -5,9 +5,7 @@ excerpt: "Research Projects"
 author_profile: true
 ---
 
-Research projects
-=====
-intro about my projects
+A very nice thing about interdisciplinary research, at the intersection of machine learning, electronics and photonics, is the vast choice of interesting research directions. here are some of the most exciting research projects i'm pursuing
 
 Human action recognition in videos
 -----
