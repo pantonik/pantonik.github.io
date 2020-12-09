@@ -3,8 +3,6 @@ permalink: /research/
 title: "Research"
 excerpt: "Research Projects"
 author_profile: true
-redirect_from: 
-  - /research.html
 ---
 
 Research projects
