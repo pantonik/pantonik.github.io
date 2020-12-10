@@ -21,6 +21,19 @@ After this first success, I actively research the HAR with reservoir computing a
 
 Keywords: computer vision, silhouette segmentation, feature extraction, ...
 
+Large-scale parallel photonic reservoir computer
+-----
+
+<img src="/images/fig2_antonik2019human.png" width="500">
+
+The goal of this project is to perform the human action recognition with photonic hardware. With my collaborators, we developped a large-scale photonic reservoir computer, using off-the-shelf components, and capable of running a neural network up to 16,000 nodes in parallel. The core of the experiment is the spatial light modulator, in charge of the nonlinear activation function. The input and readout layers are carried out digitally on a computer. Our first experiment achieved a 91% accuracy on the KTH dataset, with a processing speed up to 7 frames per second. We now aim at replacing the digital parts by optics to offload most of the computations in hardware and increase the processing speed up to real time.
+
+Keywords: ...
+
+Collaborators: Daniel Brunner (FEMTO-ST), Damien Rontani (CS), Nicolas Marsal (CS)
+
+Publications:
+
 Analogue readout layer for photonic time-delay reservoir computing
 -----
 
@@ -36,24 +49,26 @@ Collaborators: Serge Massar (ULB)
 
 Publications: ...
 
-Large-scale parallel photonic reservoir computer
+Real-time coronary plaque segmentation in optical coherence tomography scans
 -----
 
-<img src="/images/fig2_antonik2019human.png" width="500">
+IMAGE
 
-The goal of this project is to perform the human action recognition with photonic hardware. With my collaborators, we developped a large-scale photonic reservoir computer, using off-the-shelf components, and capable of running a neural network up to 16,000 nodes in parallel. The core of the experiment is the spatial light modulator, in charge of the nonlinear activation function. The input and readout layers are carried out digitally on a computer. Our first experiment achieved a 91% accuracy on the KTH dataset, with a processing speed up to 7 frames per second. We now aim at replacing the digital parts by optics to offload most of the computations in hardware and increase the processing speed up to real time.
+Atherosclerosis is a progressive disease characterised by the accumulation of lipids and fibrous elements in the large arteries.
+It is the primary cause of heart disease and stroke (about 50% of all deaths in westernised societies).
+The diagnosis of coronary plaques that cause acute coronary events requires high-resolution visualisation methods.
+In recent years, researchers at the Biomedical Engineering Department of the University of Texas at Austin have investigated the use of optical coherence tomography (OCT) for the intravascular (IV) imaging. 
+The main advantage of IV-OCT over other imaging techniques (such as IVUS, MR or CT) is the axial resolution (about 10 um, ten times more than IVUS, the current industry standard).
+However, the complexity of analysis of the IV-OCT scans of coronary arteries presents a significant challenge in large-scale deployment of this imaging technique.
+To address this issue, Dr T Milner and his collaborators introduced machine learning for the automated plaque classification in IV-OCT scans.
+I had a chance to contribute to this project during my internship at UTexas: I implemented the computer-vision-based algorithm (both the feature extraction and classification stages) on the FPGA to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
+The current objectives of the project include the improvement of the sensitivity and specificity of the machine learning algorithm and the enhancement of its FPGA implementation for real-time diagnosis.
 
 Keywords: ...
 
-Collaborators: Daniel Brunner (FEMTO-ST), Damien Rontani (CS), Nicolas Marsal (CS)
-
-Publications:
-
-Real-time tissue segmentation (...)
------
-some text
-figure from my thesis
 Collaboration: Thomas Milner (UTexas)
+
+Publications: ...
 
 FPGA IBM
 -----
