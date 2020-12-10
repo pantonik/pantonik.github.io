@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr)
+Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr).
 My research lies at the intersection of machine learning, optics and electronics. 
 In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibres -- that kind of stuff) or program them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
 The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumptions. 
@@ -20,10 +20,9 @@ My background
 ---
 
 Let's do this in reverse order, like in a résumé.
- ([Metz campus](https://metz.centralesupelec.fr)) with the  and the Chair in Photonics. 
-I'm currently affiliated with the Chair in Photonics (link) and the LMOPS EA-4423 (link), a joint lab by CentraleSupélec and the Université de Lorraine (link).
+I'm currently affiliated with the [Chair in Photonics](http://www.chairphotonics.eu/) and the [LMOPS EA-4423](https://lmops.univ-lorraine.fr/), a joint lab by CentraleSupélec and the [Université de Lorraine](https://www.univ-lorraine.fr/).
 Before getting into my current position, I was a post-doc for a year at the same spot (Metz, France), and the same affiliations.
-Before moving to France, I did my PhD at the Université libre de Bruxelles (link), in Brussels, Belgium, under the supervision of Prof. Serge Massar (link) on the topic of machine learning, optics and electronics... sounds familiar?
+Before moving to France, I did my PhD at the [Université libre de Bruxelles](https://www.ulb.be/), in Brussels, Belgium, under the supervision of [Prof. Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) on the topic of machine learning, optics and electronics... sounds familiar?
 Actually, I did all of my studies -- the Bachelor and the Master's degrees -- at ULB as well. I studied physics in the first place, the thing for machine learning came later.
 And finally, since my name doesn't sound very Belgian nor French (especially if you manage to pronounce it right, which few people do), I have to reveal that I was actually born in Minsk, former Soviet Union, now Belarus. 
 There, now you know everything.
