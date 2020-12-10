@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr)
 My research lies at the intersection of machine learning, optics and electronics. 
-In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibers -- that kind of stuff) or programm them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
+In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibres -- that kind of stuff) or program them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
 The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumptions. 
 And sometimes, it works!
 But the most exciting part in all this are all the potential applications in telecommunications, computer vision, natural language processing and biomedical imaging. 
@@ -31,7 +31,7 @@ There, now you know everything.
 More details (in a more formal style) can be found in my CV (link ??).
 
 
-My philosphy and other hobbies
+My philosophy and other hobbies
 ---
 
 What else do I like besides science? 
@@ -41,7 +41,7 @@ Then, I'm definitely a sports addict -- I love cycling (especially mountain biki
 I also like travelling, especially after I found out, during my PhD, that all travelling expenses were taken care of by the University. 
 And I also enjoy crushing my ears with some good heavy metal from time to time.
 
-I'd like to finish introducing myself on a philosphical note. 
-Sometimes I feel that science is too serious (a joke or two would make such a difference) and too focused on knowing, i.e. doing one's best to hide what one does not know. But what is so bad about not knowing? We can't know everything, right? I certainly can't, and I'm not affraid of saying that openly. Well, I do regret it the day I recieve the reviews from my students, but at least I'm honest with them, and myself. And we can all laugh about my ignorance, together.
+I'd like to finish introducing myself on a philosophical note. 
+Sometimes I feel that science is too serious (a joke or two would make such a difference) and too focused on knowing, i.e. doing one's best to hide what one does not know. But what is so bad about not knowing? We can't know everything, right? I certainly can't, and I'm not afraid of saying that openly. Well, I do regret it the day I receive the reviews from my students, but at least I'm honest with them, and myself. And then we can all laugh about it.
 
 (full disclosure: in case you sensed a Feynman vibe -- you are absolutely right, I'm a big fan)
