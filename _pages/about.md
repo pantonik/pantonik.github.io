@@ -8,7 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr) ([Metz campus](https://metz.centralesupelec.fr)) with the LMOPS EA-4423 lab and the Chair in Photonics. My research activities combine machine learning, photonics, and FPGA programming, with applications in telecommunications, computer vision and biomedical imaging. My teaching duties span various topics in the engineering curriculum, from the basics of modelling, optimisation and electromagnetism up to more advaned topics such as photonic computing.
-Besides science, I'm passionate about sports (such as cycling, esp. mountain biking, running and badminton), travelling and music.
-More details can be found in my CV ??.
+Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr)
+My research lies at the intersection of machine learning, optics and electronics. 
+In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibers -- that kind of stuff) or programm them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
+The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumptions. 
+And sometimes, it works!
+But the most exciting part in all this are all the potential applications in telecommunications, computer vision, natural language processing and biomedical imaging. 
+So, yes -- you guessed it -- I love doing what I do!
 
+My background
+---
+
+Let's do this in reverse order, like in a résumé.
+ ([Metz campus](https://metz.centralesupelec.fr)) with the  and the Chair in Photonics. 
+I'm currently affiliated with the Chair in Photonics (link) and the LMOPS EA-4423 (link), a joint lab by CentraleSupélec and the Université de Lorraine (link).
+Before getting into my current position, I was a post-doc for a year at the same spot (Metz, France), and the same affiliations.
+Before moving to France, I did my PhD at the Université libre de Bruxelles (link), in Brussels, Belgium, under the supervision of Prof. Serge Massar (link) on the topic of machine learning, optics and electronics... sounds familiar?
+Actually, I did all of my studies -- the Bachelor and the Master's degrees -- at ULB as well. I studied physics in the first place, the thing for machine learning came later.
+And finally, since my name doesn't sound very Belgian nor French (especially if you manage to pronounce it right, which few people do), I have to reveal that I was actually born in Minsk, former Soviet Union, now Belarus. 
+There, now you know everything.
+
+More details (in a more formal style) can be found in my CV (link ??).
+
+
+My philosphy and other hobbies
+---
+
+What else do I like besides science? 
+That shouldn't be complicated.
+Well, I love my wife, that's for sure (she will find this page eventually, so I had to put that down).
+Then, I'm definitely a sports addict -- I love cycling (especially mountain biking), running and badminton. 
+I also like travelling, especially after I found out, during my PhD, that all travelling expenses were taken care of by the University. 
+And I also enjoy crushing my ears with some good heavy metal from time to time.
+
+I'd like to finish introducing myself on a philosphical note. 
+Sometimes I feel that science is too serious (a joke or two would make such a difference) and too focused on knowing, i.e. doing one's best to hide what one does not know. But what is so bad about not knowing? We can't know everything, right? I certainly can't, and I'm not affraid of saying that openly. Well, I do regret it the day I recieve the reviews from my students, but at least I'm honest with them, and myself. And we can all laugh about my ignorance, together.
+
+(full disclosure: in case you sensed a Feynman vibe -- you are absolutely right, I'm a big fan)
