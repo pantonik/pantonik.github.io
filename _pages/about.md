@@ -29,7 +29,6 @@ There, now you know everything.
 
 More details (in a more formal style) can be found in my CV (link ??).
 
-
 My philosophy and other hobbies
 ---
 
