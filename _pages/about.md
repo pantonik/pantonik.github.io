@@ -13,7 +13,7 @@ My research lies at the intersection of machine learning, optics and electronics
 In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibres -- that kind of stuff) or program them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
 The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumption. 
 And sometimes, it works!
-But the most exciting part in all this are all the potential applications in telecommunications, computer vision, natural language processing and biomedical imaging. 
+But the most exciting part in all this are all the potential applications in telecommunications, computer vision, and biomedical imaging. 
 So, yes -- you guessed it -- I love doing what I do!
 
 My background
