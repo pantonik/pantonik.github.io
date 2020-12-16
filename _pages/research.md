@@ -61,7 +61,7 @@ To address this issue, Dr T Milner and his collaborators introduced machine lear
 I had a chance to contribute to this project during my internship at UTexas: I implemented the **computer-vision-based algorithm** (both the feature extraction and classification stages) on the **FPGA** to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
 The current objectives of the project include the improvement of the sensitivity and specificity of the machine learning algorithm and the enhancement of its FPGA implementation for **real-time diagnosis**.
 
-Collaboration: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
+Collaborators: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
 
 * Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850.
 
@@ -74,6 +74,6 @@ This project focuses on the realisation of a **photonic reservoir cluster** devi
 The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
 I contribute to the development of the specific FPGA design for the **high-speed data acquisition** and generation for the optical setup.
 
-Collaboration: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
+Collaborators: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
 
 * Héroux, Jean Benoit, Naoki Kanazawa, and Piotr Antonik. "Time Series Processing with VCSEL-Based Reservoir Computer." _International Conference on Artificial Neural Networks_. Springer, Cham, 2019.
