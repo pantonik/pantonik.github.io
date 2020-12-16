@@ -28,7 +28,8 @@ The goal of this project is to perform the **human action recognition** with **p
 
 Collaborators: [Daniel Brunner](https://members.femto-st.fr/daniel-brunner/) (FEMTO-ST), [Damien Rontani](http://www.metz.supelec.fr/metz/personnel/rontani_dam/) and [Nicolas Marsal](http://www.metz.supelec.fr/metz/personnel/marsal_nic) (CentraleSupélec)
 
-Publications: ...
+* Antonik, Piotr, et al. "Human action recognition with a large-scale brain-inspired photonic computer." _Nature Machine Intelligence_ 1.11 (2019): 530-537.
+* Antonik, Piotr, Nicolas Marsal, and Damien Rontani. "Large-scale spatiotemporal photonic reservoir computer for image classification." _IEEE Journal of Selected Topics in Quantum Electronics_ 26.1 (2019): 1-12.
 
 Analogue readout layer for photonic time-delay reservoir computing
 -----
@@ -62,7 +63,7 @@ The current objectives of the project include the improvement of the sensitivity
 
 Collaboration: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
 
-Publications: ...
+* Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850.
 
 Reservoir computing based on multi-mode optical interconnect
 -----
@@ -75,4 +76,4 @@ I contribute to the development of the specific FPGA design for the **high-speed
 
 Collaboration: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
 
-Publications: ...
+* Héroux, Jean Benoit, Naoki Kanazawa, and Piotr Antonik. "Time Series Processing with VCSEL-Based Reservoir Computer." _International Conference on Artificial Neural Networks_. Springer, Cham, 2019.
