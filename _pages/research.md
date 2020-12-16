@@ -5,7 +5,7 @@ excerpt: "Research Projects"
 author_profile: true
 ---
 
-A very nice thing about interdisciplinary research -- at the intersection of machine learning, electronics and photonics -- is the vast choice of interesting research directions. Here are some of the most exciting research projects I'm currently pursuing. Most of them (but not all) orbit around the [reservoir computing paradigm](http://www.scholarpedia.org/article/Echo_state_network), a machine learning algorithm based on recurrent neural networks.
+My interdisciplinary research field -- at the intersection of machine learning, electronics and photonics -- offers a vast choice of interesting research directions. Here are some of the most exciting research projects I'm currently pursuing. Most of them (but not all) orbit around the [reservoir computing paradigm](http://www.scholarpedia.org/article/Echo_state_network), a machine learning algorithm based on recurrent neural networks.
 
 Human action recognition in videos
 -----
