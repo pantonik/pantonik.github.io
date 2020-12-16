@@ -10,6 +10,7 @@ My papers on Google Scholar ...
 ---
 * Antonik, Piotr, Serge Massar, and Guy Van Der Sande. "Photonic reservoir computing using delay dynamical systems." _Photoniques_ 104 (2020): 45-48.
 * Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850.
+* Nguimdo, Romain Modeste, et al. "Impact of optical coherence on the performance of large-scale spatiotemporal photonic reservoir computing systems." _Optics Express_ 28.19 (2020): 27989-28005.
 
 2019
 ---
