@@ -41,7 +41,8 @@ We investigated the idea of **online learning** to bypass the challenges of trai
 
 Collaborators: [Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) (ULB)
 
-Publications: ...
+Publications:
+* Antonik, Piotr, Marc Haelterman, and Serge Massar. "Online training for high-performance analogue readout layers in photonic reservoir computers." _Cognitive Computation_ 9.3 (2017): 297-306.
 
 Real-time coronary plaque segmentation in optical coherence tomography scans
 -----
