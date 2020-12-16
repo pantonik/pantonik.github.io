@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-You can also find my all my publications on my [Google Scholar profile](https://scholar.google.be/citations?user=uf3t4fEAAAAJ).
+All my publications can also be found on my [Google Scholar profile](https://scholar.google.be/citations?user=uf3t4fEAAAAJ).
 
 2020
 ---
