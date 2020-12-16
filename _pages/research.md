@@ -5,21 +5,19 @@ excerpt: "Research Projects"
 author_profile: true
 ---
 
-A very nice thing about interdisciplinary research -- at the intersection of machine learning, electronics and photonics -- is the vast choice of interesting research directions. Here are some of the most exciting research projects I'm currently pursuing. Most of them (but not all) orbit around the [reservoir computing paradigm](http://www.scholarpedia.org/article/Echo_state_network), a machine learning algorithm that I studied during my PhD.
+A very nice thing about interdisciplinary research -- at the intersection of machine learning, electronics and photonics -- is the vast choice of interesting research directions. Here are some of the most exciting research projects I'm currently pursuing. Most of them (but not all) orbit around the [reservoir computing paradigm](http://www.scholarpedia.org/article/Echo_state_network), a machine learning algorithm based on recurrent neural networks.
 
 Human action recognition in videos
 -----
 
 <img src="/images/kth_examples.png" width="500">
 
-Human action recognition (HAR) has been one of the most active and attractive research fields in machine learning for its vast range of applications in areas such as security and surveillance, healthcare, autonomous driving, human-machine interaction, smart home, and entertainment.
-The canonical approach to HAR (before the rise of deep learning) consisted in several more or less complex preprocessing stages of the raw video data (feature extraction), followed by a relatively simple lassification algorithm (e.g. SVM), with the most research interest drawn to the feature extraction stage.
+**Human action recognition** (HAR) has been one of the most active and attractive research fields in machine learning for its vast range of applications in areas such as security and surveillance, healthcare, autonomous driving, human-machine interaction, smart home, and entertainment.
+The canonical approach to HAR (before the rise of deep learning) consisted in several more or less complex preprocessing stages of the raw video data (**feature extraction**), followed by a relatively simple lassification algorithm (e.g. SVM), with the most research interest drawn to the feature extraction stage.
 
-At first, I proposed to use a reservoir computer as the classifier, and I was able to obtain almost state-of-the-art results even with a simple set of features (see the Large-scale parallel photonic reservoir computer below). 
-One of the key advantages of reservoir computing for video processing is that it does not require a feature descriptor, which significantly simplifies the preprocessing stage.
+At first, I proposed to use a **reservoir computer** as the classifier, and I was able to obtain almost state-of-the-art results even with a simple set of features (see the Large-scale parallel photonic reservoir computer below). 
+One of the key advantages of reservoir computing for video processing is that it does not require a **feature descriptor**, which significantly simplifies the preprocessing stage.
 After this first success, I actively research the HAR with reservoir computing and supervise prospective grad and master thesis students on this topic.
-
-Keywords: computer vision, silhouette segmentation, feature extraction, ...
 
 Large-scale parallel photonic reservoir computer
 -----
