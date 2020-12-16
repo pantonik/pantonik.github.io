@@ -9,8 +9,8 @@ You can also find my all my publications on my [Google Scholar profile](https://
 2020
 ---
 * **Antonik, Piotr**, Serge Massar, and Guy Van Der Sande. "Photonic reservoir computing using delay dynamical systems." _Photoniques_ 104 (2020): 45-48.
-* Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850.
-* Nguimdo, Romain Modeste, et al. "Impact of optical coherence on the performance of large-scale spatiotemporal photonic reservoir computing systems." _Optics Express_ 28.19 (2020): 27989-28005.
+* Baruah, V., Zahedivash, A., Hoyt, T., McElroy, A., Vela, D., Buja, L.M., Cabe, A., Oglesby, M., Estrada, A., **Antonik, P.** and Milner, T.E., 2020. Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT. _JACC: Cardiovascular Imaging_, 13(8), pp.1848-1850.
+* Nguimdo, R. M., **Antonik, P.**, Marsal, N., & Rontani, D. (2020). Impact of optical coherence on the performance of large-scale spatiotemporal photonic reservoir computing systems. _Optics Express_, 28(19), 27989-28005.
 
 2019
 ---
@@ -30,4 +30,4 @@ You can also find my all my publications on my [Google Scholar profile](https://
 2016
 ---
 * **Antonik, Piotr**, et al. "Online training of an opto-electronic reservoir computer applied to real-time channel equalization." _IEEE transactions on neural networks and learning systems_ 28.11 (2016): 2686-2698.
-* Hermans, Michiel, et al. "Embodiment of learning in electro-optical signal processors." _Physical review letters_ 117.12 (2016): 128301.
+* Hermans, M., **Antonik, P.**, Haelterman, M., & Massar, S. (2016). Embodiment of learning in electro-optical signal processors. Physical review letters, 117(12), 128301.
