@@ -28,20 +28,18 @@ The goal of this project is to perform the **human action recognition** with **p
 
 Collaborators: [Daniel Brunner](https://members.femto-st.fr/daniel-brunner/) (FEMTO-ST), [Damien Rontani](http://www.metz.supelec.fr/metz/personnel/rontani_dam/) and [Nicolas Marsal](http://www.metz.supelec.fr/metz/personnel/marsal_nic) (CentraleSupélec)
 
-Publications:
+Publications: ...
 
 Analogue readout layer for photonic time-delay reservoir computing
 -----
 
 <img src="/images/fig2_antonik2017online.png" width="500">
 
-Reservoir computing gained significant interest in different research communities and spurred a series of experimental realisations in various physical systems such as e.g., electronic and photonics (see (Tanaka G...) for an in-depth review).
-The performance these hardware implementation is comparable to state-of-the-art digital algorithms on a series of benchmark tasks. However, the major bottleneck is the readout layer, commonly consisting in slow offline post-processing. Few analogue solutions have been proposed (in particular by the OPERA-Photonics group at ULB), but all suffered from noticeable decrease in performance due to added complexity of the setup.
-We investigated the idea of online learning to bypass the challenges of training a complex and nonlinear readout layer and obtained promising results. We now work on the experimental demonstration of these ideas.
+Reservoir computing gained significant interest in different research communities and spurred a series of experimental realisations in various **physical systems** such as e.g., **electronic and photonics** (see (Tanaka G...) for an in-depth review).
+The performance these hardware implementation is comparable to state-of-the-art digital algorithms on a series of benchmark tasks. However, the major bottleneck is the **readout layer**, commonly consisting in slow offline post-processing. Few **analogue** solutions have been proposed (in particular by the OPERA-Photonics group at ULB), but all suffered from noticeable decrease in performance due to added complexity of the setup.
+We investigated the idea of **online learning** to bypass the challenges of training a complex and nonlinear readout layer and obtained promising results. We now work on the **experimental demonstration** of these ideas.
 
-Keywords: ...
-
-Collaborators: Serge Massar (ULB)
+Collaborators: [Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) (ULB)
 
 Publications: ...
 
@@ -55,16 +53,14 @@ Image source: left panel, right panel
 Atherosclerosis is a progressive disease characterised by the accumulation of lipids and fibrous elements in the large arteries.
 It is the primary cause of heart disease and stroke (about 50% of all deaths in westernised societies).
 The diagnosis of coronary plaques that cause acute coronary events requires high-resolution visualisation methods.
-In recent years, researchers at the Biomedical Engineering Department of the University of Texas at Austin have investigated the use of optical coherence tomography (OCT) for the intravascular (IV) imaging. 
+In recent years, researchers at the Biomedical Engineering Department of the University of Texas at Austin have investigated the use of **optical coherence tomography** (OCT) for the intravascular (IV) imaging. 
 The main advantage of IV-OCT over other imaging techniques (such as IVUS, MR or CT) is the axial resolution (about 10 um, ten times higher than IVUS, the current industry standard).
 However, the complexity of analysis of the IV-OCT scans of coronary arteries presents a significant challenge in large-scale deployment of this imaging technique.
-To address this issue, Dr T Milner and his collaborators introduced machine learning for the automated plaque classification in IV-OCT scans.
-I had a chance to contribute to this project during my internship at UTexas: I implemented the computer-vision-based algorithm (both the feature extraction and classification stages) on the FPGA to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
-The current objectives of the project include the improvement of the sensitivity and specificity of the machine learning algorithm and the enhancement of its FPGA implementation for real-time diagnosis.
+To address this issue, Dr T Milner and his collaborators introduced machine learning for the **automated plaque classification** in IV-OCT scans.
+I had a chance to contribute to this project during my internship at UTexas: I implemented the **computer-vision-based algorithm** (both the feature extraction and classification stages) on the **FPGA** to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
+The current objectives of the project include the improvement of the sensitivity and specificity of the machine learning algorithm and the enhancement of its FPGA implementation for **real-time diagnosis**.
 
-Keywords: ...
-
-Collaboration: Thomas Milner (UTexas)
+Collaboration: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
 
 Publications: ...
 
@@ -73,11 +69,9 @@ Reservoir computing based on multi-mode optical interconnect
 
 <img src="/images/fig3_heroux2020time.png" width="500">
 
-This project focuses on the realisation of a photonic reservoir cluster device operating at very high speed with low power and a small footprint with a large number of interacting physical and virtual neurons. 
-The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on multi-mode optical interconnect components. 
-I helped with the development of a specific FPGA design for the high-speed data acquisition and generation for the optical setup.
-
-Keywords: ...
+This project focuses on the realisation of a **photonic reservoir cluster** device operating at very high speed with low power and a small footprint with a large number of interacting physical and virtual neurons. 
+The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
+I contribute to the development of the specific FPGA design for the **high-speed data acquisition** and generation for the optical setup.
 
 Collaboration: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
 
