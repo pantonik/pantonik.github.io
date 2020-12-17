@@ -29,5 +29,5 @@ These are my major journal papers (book chapters and conference proceedings not 
 
 2016
 ---
-* **Antonik, Piotr**, et al. "Online training of an opto-electronic reservoir computer applied to real-time channel equalization." _IEEE transactions on neural networks and learning systems_ 28.11 (2016): 2686-2698. [\[DOI\]](https://doi.org/10.1109/tnnls.2016.2598655)
+* **Antonik, Piotr**, et al. "Online training of an opto-electronic reservoir computer applied to real-time channel equalization." _IEEE transactions on neural networks and learning systems_ 28.11 (2016): 2686-2698. [\[DOI\]](https://doi.org/10.1109/tnnls.2016.2598655) [\[arXiv\]](https://arxiv.org/abs/1610.06268)
 * Hermans, M., **Antonik, P.**, Haelterman, M., & Massar, S. (2016). Embodiment of learning in electro-optical signal processors. Physical review letters, 117(12), 128301. [\[DOI\]](https://doi.org/10.1103/physrevlett.117.128301)
