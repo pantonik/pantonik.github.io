@@ -4,7 +4,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-These are my major journal papers (book chapters and conference proceedings not included). A complete list of all of my publications can also be found on my [Google Scholar profile](https://scholar.google.be/citations?user=uf3t4fEAAAAJ).
+These are my major journal papers (book chapters and conference proceedings not included). The complete list of all of my publications can also be found on my [Google Scholar profile](https://scholar.google.be/citations?user=uf3t4fEAAAAJ).
 
 2020
 ---
