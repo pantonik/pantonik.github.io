@@ -28,8 +28,8 @@ The goal of this project is to perform the **human action recognition** with **p
 
 Collaborators: [Daniel Brunner](https://members.femto-st.fr/daniel-brunner/) (FEMTO-ST), [Damien Rontani](http://www.metz.supelec.fr/metz/personnel/rontani_dam/) and [Nicolas Marsal](http://www.metz.supelec.fr/metz/personnel/marsal_nic) (CentraleSupélec)
 
-* Antonik, Piotr, et al. "Human action recognition with a large-scale brain-inspired photonic computer." _Nature Machine Intelligence_ 1.11 (2019): 530-537.
-* Antonik, Piotr, Nicolas Marsal, and Damien Rontani. "Large-scale spatiotemporal photonic reservoir computer for image classification." _IEEE Journal of Selected Topics in Quantum Electronics_ 26.1 (2019): 1-12.
+* Antonik, Piotr, et al. "Human action recognition with a large-scale brain-inspired photonic computer." _Nature Machine Intelligence_ 1.11 (2019): 530-537. [\[DOI\]](https://doi.org/10.1038/s42256-019-0110-8) [\[arXiv\]](https://arxiv.org/abs/2004.02545)
+* Antonik, Piotr, Nicolas Marsal, and Damien Rontani. "Large-scale spatiotemporal photonic reservoir computer for image classification." _IEEE Journal of Selected Topics in Quantum Electronics_ 26.1 (2019): 1-12. [\[DOI\]](https://doi.org/10.1109/jstqe.2019.2924138) [\[arXiv\]](https://arxiv.org/abs/2004.02542)
 
 Analogue readout layer for photonic time-delay reservoir computing
 -----
@@ -42,7 +42,7 @@ We investigated the idea of **online learning** to bypass the challenges of trai
 
 Collaborators: [Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) (ULB)
 
-* Antonik, Piotr, Marc Haelterman, and Serge Massar. "Online training for high-performance analogue readout layers in photonic reservoir computers." _Cognitive Computation_ 9.3 (2017): 297-306.
+* Antonik, Piotr, Marc Haelterman, and Serge Massar. "Online training for high-performance analogue readout layers in photonic reservoir computers." _Cognitive Computation_ 9.3 (2017): 297-306. [\[DOI\]](https://doi.org/10.1007/s12559-017-9459-3)
 
 Real-time coronary plaque segmentation in optical coherence tomography scans
 -----
@@ -63,7 +63,7 @@ The current objectives of the project include the improvement of the sensitivity
 
 Collaborators: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
 
-* Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850.
+* Baruah, Vikram, et al. "Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT." _JACC: Cardiovascular Imaging_ 13.8 (2020): 1848-1850. [\[DOI\]](https://doi.org/10.1016/j.jcmg.2020.02.022)
 
 Reservoir computing based on multi-mode optical interconnect
 -----
