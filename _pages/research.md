@@ -76,4 +76,4 @@ I contribute to the development of the specific FPGA design for the **high-speed
 
 Collaborators: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
 
-* Héroux, Jean Benoit, Naoki Kanazawa, and Piotr Antonik. "Time Series Processing with VCSEL-Based Reservoir Computer." _International Conference on Artificial Neural Networks_. Springer, Cham, 2019.
+* Héroux, Jean Benoit, Naoki Kanazawa, and Piotr Antonik. "Time Series Processing with VCSEL-Based Reservoir Computer." _International Conference on Artificial Neural Networks_. Springer, Cham, 2019. [\[DOI\]](https://doi.org/10.1007/978-3-030-30493-5_17)
