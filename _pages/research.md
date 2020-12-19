@@ -47,9 +47,7 @@ Collaborators: [Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&
 Real-time coronary plaque segmentation in optical coherence tomography scans
 -----
 
-<img src="/images/iv-oct.png" title="Source: ... (left panel), ... (right panel)" width="500">
-
-?? !! image source
+<img src="/images/iv-oct.png" title="Source: Gefvert B., BioOptics World, 2010 (left panel), Jaguszewski M., et al. Cur. Cardiovasc. Imag. Rep., 2012 (right panel)" width="500">
 
 Atherosclerosis is a progressive disease characterised by the accumulation of lipids and fibrous elements in the large arteries.
 It is the primary cause of heart disease and stroke (about 50% of all deaths in westernised societies).
@@ -68,9 +66,7 @@ Collaborators: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-
 Reservoir computing based on multi-mode optical interconnect
 -----
 
-<img src="/images/fig3_heroux2020time.png" title="Source: " width="500">
-
-!! ?? image source
+<img src="/images/fig3_heroux2020time.png" title="Source: Héroux J. B., et al. SPIE OPTO (2020)" width="500">
 
 This project focuses on the realisation of a **photonic reservoir cluster** device operating at very high speed with low power and a small footprint with a large number of interacting physical and virtual neurons. 
 The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
