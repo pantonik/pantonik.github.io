@@ -10,7 +10,7 @@ My interdisciplinary research field -- at the intersection of **machine learning
 Human action recognition in videos
 -----
 
-<center><img src="/images/kth_examples.png" title="Source: paper under review" width="500"></center>
+<img src="/images/kth_examples.png" title="Source: paper under review" width="500" style="margin-left: auto; margin-right: auto;">
 
 **Human action recognition** (HAR) has been one of the most active and attractive research fields in machine learning for its vast range of applications in areas such as security and surveillance, healthcare, autonomous driving, human-machine interaction, smart home, and entertainment.
 The canonical approach to HAR (before the rise of deep learning) consisted in several more or less complex preprocessing stages of the raw video data (**feature extraction**), followed by a relatively simple classification algorithm (e.g. SVM), with the most research interest drawn to the feature extraction stage.
