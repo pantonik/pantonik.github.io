@@ -69,7 +69,7 @@ Reservoir computing based on multi-mode optical interconnect
 <img src="/images/fig3_heroux2020time.png" title="Source: Héroux J. B., et al. SPIE OPTO (2020)" width="500">
 
 This project focuses on the realisation of a **photonic reservoir cluster** device operating at very high speed with low power and a small footprint with a large number of interacting physical and virtual neurons. 
-The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
+The IBM Research team in Japan has developed a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
 I contribute to the development of the specific FPGA design for the **high-speed data acquisition** and generation for the optical setup.
 
 Collaborators: [Jean Benoit Héroux](https://researcher.watson.ibm.com/researcher/view.php?person=jp-HEROUX) (IBM Research - Tokyo)
