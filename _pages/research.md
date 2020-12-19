@@ -10,7 +10,7 @@ My interdisciplinary research field -- at the intersection of **machine learning
 Human action recognition in videos
 -----
 
-<img src="/images/kth_examples.png" alt="text" title="test" width="500">
+<img src="/images/kth_examples.png" title="Source: paper under review" width="500">
 
 **Human action recognition** (HAR) has been one of the most active and attractive research fields in machine learning for its vast range of applications in areas such as security and surveillance, healthcare, autonomous driving, human-machine interaction, smart home, and entertainment.
 The canonical approach to HAR (before the rise of deep learning) consisted in several more or less complex preprocessing stages of the raw video data (**feature extraction**), followed by a relatively simple classification algorithm (e.g. SVM), with the most research interest drawn to the feature extraction stage.
@@ -22,7 +22,7 @@ After this first success, I actively research the HAR with reservoir computing a
 Large-scale parallel photonic reservoir computer
 -----
 
-<img src="/images/fig2_antonik2019human.png" width="500">
+<img src="/images/fig2_antonik2019human.png" title="Source: Antonik P., et al. Nat. Mach. Intel. (2019)" width="500">
 
 The goal of this project is to perform the **human action recognition** with **photonic hardware**. With my collaborators, we developped a large-scale photonic reservoir computer, using off-the-shelf components, and capable of running a **neural network** with 16,000 nodes in parallel. The core of the experiment is a **spatial light modulator**, in charge of the nonlinear activation function. The input and readout layers are carried out digitally on a computer. Our first experiment achieved a 91% accuracy on the **KTH dataset**, with a processing speed up to 7 frames per second. We now aim at replacing the digital parts by optics to offload most of the computations in hardware and increase the processing speed up to real time.
 
@@ -34,7 +34,7 @@ Collaborators: [Daniel Brunner](https://members.femto-st.fr/daniel-brunner/) (FE
 Analogue readout layer for photonic time-delay reservoir computing
 -----
 
-<img src="/images/fig2_antonik2017online.png" width="500">
+<img src="/images/fig2_antonik2017online.png" title="Source: Antonik P., et al. Cogn. Comput. (2017)" width="500">
 
 Reservoir computing gained significant interest in different research communities and spurred a series of experimental realisations in various **physical systems** such as e.g., **electronics** and **photonics** (see [Tanaka G., et al. Neural Netw. (2019)](https://doi.org/10.1016/j.neunet.2019.03.005) for an in-depth review).
 Although the performance of these hardware implementations is comparable to state-of-the-art digital algorithms on a series of benchmark tasks, there are some bottlenecks. One of them is the **readout layer**, commonly consisting of a slow offline post-processing. Several **analogue** solutions have been proposed (in particular by the [OPERA-Photonics](https://www2.ulb.ac.be/facs/polytech/opera/index.html) group at ULB), but all suffered from noticeable decrease in performance due to added complexity of the setup.
@@ -47,9 +47,9 @@ Collaborators: [Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&
 Real-time coronary plaque segmentation in optical coherence tomography scans
 -----
 
-<img src="/images/iv-oct.png" width="500">
+<img src="/images/iv-oct.png" title="Source: ... (left panel), ... (right panel)" width="500">
 
-Image source: left panel, right panel
+?? !! image source
 
 Atherosclerosis is a progressive disease characterised by the accumulation of lipids and fibrous elements in the large arteries.
 It is the primary cause of heart disease and stroke (about 50% of all deaths in westernised societies).
@@ -68,7 +68,9 @@ Collaborators: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-
 Reservoir computing based on multi-mode optical interconnect
 -----
 
-<img src="/images/fig3_heroux2020time.png" width="500">
+<img src="/images/fig3_heroux2020time.png" title="Source: " width="500">
+
+!! ?? image source
 
 This project focuses on the realisation of a **photonic reservoir cluster** device operating at very high speed with low power and a small footprint with a large number of interacting physical and virtual neurons. 
 The IBM Research team in Japan has developped a prototype time-delay reservoir computer based on **multi-mode optical interconnect** components. 
