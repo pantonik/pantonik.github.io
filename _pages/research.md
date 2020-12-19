@@ -53,7 +53,7 @@ Atherosclerosis is a progressive disease characterised by the accumulation of li
 It is the primary cause of heart disease and stroke (about 50% of all deaths in westernised societies).
 The diagnosis of coronary plaques that cause acute coronary events requires high-resolution visualisation methods.
 In recent years, researchers at the Biomedical Engineering Department of the University of Texas at Austin have investigated the use of **optical coherence tomography** (OCT) for the intravascular (IV) imaging. 
-The main advantage of IV-OCT over other imaging techniques (such as IVUS, MR or CT) is the axial resolution (about 10 um, ten times higher than IVUS, the current industry standard).
+The main advantage of IV-OCT over other imaging techniques (such as IVUS, MR or CT) is the axial resolution (about 10 &mu;m, ten times higher than IVUS, the current industry standard).
 However, the complexity of analysis of the IV-OCT scans of coronary arteries presents a significant challenge in large-scale deployment of this imaging technique.
 To address this issue, Dr T Milner and his collaborators introduced machine learning for the **automated plaque classification** in IV-OCT scans.
 I had a chance to contribute to this project during my internship at UTexas: I implemented the **computer-vision-based algorithm** (both the feature extraction and classification stages) on the **FPGA** to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
