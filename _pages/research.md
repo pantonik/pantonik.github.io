@@ -36,7 +36,7 @@ Analogue readout layer for photonic time-delay reservoir computing
 
 <img src="/images/fig2_antonik2017online.png" width="500">
 
-Reservoir computing gained significant interest in different research communities and spurred a series of experimental realisations in various **physical systems** such as e.g., **electronic and photonics** (see [Tanaka G., et al. Neural Netw. (2019)](https://doi.org/10.1016/j.neunet.2019.03.005) for an in-depth review).
+Reservoir computing gained significant interest in different research communities and spurred a series of experimental realisations in various **physical systems** such as e.g., **electronics** and **photonics** (see [Tanaka G., et al. Neural Netw. (2019)](https://doi.org/10.1016/j.neunet.2019.03.005) for an in-depth review).
 The performance these hardware implementation is comparable to state-of-the-art digital algorithms on a series of benchmark tasks. However, the major bottleneck is the **readout layer**, commonly consisting in slow offline post-processing. Few **analogue** solutions have been proposed (in particular by the OPERA-Photonics group at ULB), but all suffered from noticeable decrease in performance due to added complexity of the setup.
 We investigated the idea of **online learning** to bypass the challenges of training a complex and nonlinear readout layer and obtained promising results. We now work on the **experimental demonstration** of these ideas.
 
