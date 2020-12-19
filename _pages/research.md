@@ -17,7 +17,7 @@ The canonical approach to HAR (before the rise of deep learning) consisted in se
 
 At first, I proposed to use a **reservoir computer** as the classifier, and I was able to obtain almost state-of-the-art results even with a simple set of features (see the _Large-scale parallel photonic reservoir computer_ below). 
 One of the key advantages of reservoir computing for video processing is that it does not require a **feature descriptor**, which significantly simplifies the preprocessing stage.
-After this first success, I actively research the HAR with reservoir computing and supervise several grad and master thesis students on this topic.
+After this first success, I actively research the HAR with reservoir computing and supervise several master's thesis students on this topic.
 
 Large-scale parallel photonic reservoir computer
 -----
