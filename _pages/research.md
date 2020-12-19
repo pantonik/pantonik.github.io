@@ -56,7 +56,7 @@ In recent years, researchers at the Biomedical Engineering Department of the Uni
 The main advantage of IV-OCT over other imaging techniques (such as IVUS, MR or CT) is the axial resolution (about 10 &mu;m, ten times higher than IVUS, the current industry standard).
 However, the complexity of analysis of the IV-OCT scans of coronary arteries presents a significant challenge in large-scale deployment of this imaging technique.
 To address this issue, Dr T Milner and his collaborators introduced machine learning for the **automated plaque classification** in IV-OCT scans.
-I had a chance to contribute to this project during my internship at UTexas: I implemented the **computer-vision-based algorithm** (both the feature extraction and classification stages) on the **FPGA** to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
+I implemented the **computer-vision-based algorithm** (both the feature extraction and classification stages) on the **FPGA** to speed up the process from roughly 3 hours on a high-end PC to 11 seconds on the FPGA.
 The current objectives of the project include the improvement of the sensitivity and specificity of the machine learning algorithm and the enhancement of its FPGA implementation for **real-time diagnosis**.
 
 Collaborators: [Thomas Milner](https://www.ece.utexas.edu/people/faculty/thomas-milner) (UTexas)
