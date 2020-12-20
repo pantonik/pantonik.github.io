@@ -14,7 +14,7 @@ In simple terms, I take machine learning algorithms (neural networks, for instan
 The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumption. 
 And sometimes, it works!
 But the most exciting part in all this are all the potential applications in telecommunications, computer vision, and biomedical imaging. 
-So, yes -- you guessed it -- I love doing what I do!
+<!--So, yes -- you guessed it -- I love doing what I do!-->
 
 My background
 ---
