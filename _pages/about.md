@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Piotr, an Assosiate Professor at [CentraleSupélec](https://www.centralesupelec.fr).
+Hello, I'm Piotr, an Associate Professor at [CentraleSupélec](https://www.centralesupelec.fr).
 My research lies at the intersection of machine learning, optics and electronics. 
 In simple terms, I take machine learning algorithms (neural networks, for instance) and try to either implement them as an optical system (with lasers, lenses, mirrors, optical fibres -- that kind of stuff) or program them in very-low-level digital electronics (it is like connecting registers and logic elements with wires on a bread board).
 The main goal is to run the said machine learning algorithms very-very fast and/or with little energy consumption. 
