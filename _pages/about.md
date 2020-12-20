@@ -39,7 +39,7 @@ Then, I'm definitely a sports addict -- I love cycling (especially mountain biki
 I also like travelling, especially after I found out, during my PhD, that all travelling expenses were taken care of by the University. 
 And I also enjoy crushing my ears with some good heavy metal from time to time.
 
-I'd like to finish introducing myself on a philosophical note. 
+I'd like to finish on a somewhat philosophical note. 
 Sometimes I feel that science is too serious (a joke or two would make such a difference) and too focused on knowing, i.e. doing one's best to hide what one does not know. But what is so bad about not knowing? We can't know everything, right? I certainly can't, and I'm not afraid of saying that openly. Well, I do regret it the day I receive the reviews from my students, but at least I'm honest with them, and myself. And then we can all laugh about it.
 
 (full disclosure: in case you sensed a [Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) vibe -- you are absolutely right, I'm a big fan)
