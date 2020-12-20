@@ -28,6 +28,7 @@ And finally, since my name doesn't sound very Belgian nor French (especially if 
 There, now you know everything.
 
 More details (in a more formal style) can be found in my [Curriculum Vitae](https://pantonik.github.io/files/antonik_cv_pubs_2020_12.pdf).
+[Curriculum Vitae 2]({{ base_path }}/files/antonik_cv_pubs_2020_12.pdf).
 
 My philosophy and other hobbies
 ---
