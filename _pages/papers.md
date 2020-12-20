@@ -11,6 +11,8 @@ These are my major journal papers (book chapters and conference proceedings not 
 * **Antonik, Piotr**, Serge Massar, and Guy Van Der Sande. "Photonic reservoir computing using delay dynamical systems." _Photoniques_ 104 (2020): 45-48. [\[DOI\]](https://doi.org/10.1051/photon/202010445)
 * Baruah, V., Zahedivash, A., Hoyt, T., McElroy, A., Vela, D., Buja, L.M., Cabe, A., Oglesby, M., Estrada, A., **Antonik, P.** and Milner, T.E., 2020. Automated Coronary Plaque Characterization With Intravascular Optical Coherence Tomography and Smart-Algorithm Approach: Virtual Histology OCT. _JACC: Cardiovascular Imaging_, 13(8), pp.1848-1850. [\[DOI\]](https://doi.org/10.1016/j.jcmg.2020.02.022)
 * Nguimdo, R. M., **Antonik, P.**, Marsal, N., & Rontani, D. (2020). Impact of optical coherence on the performance of large-scale spatiotemporal photonic reservoir computing systems. _Optics Express_, 28(19), 27989-28005. [\[DOI\]](https://doi.org/10.1364/oe.400546) [\[PDF\]](https://hal.archives-ouvertes.fr/hal-02963023/document)
+* **Antonik, Piotr**, et al. "Bayesian optimisation of large-scale photonic reservoir computers." _Cognitive Computation_ (in press). [\[arXiv\]](https://arxiv.org/abs/2004.02535)
+
 
 2019
 ---
