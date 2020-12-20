@@ -22,7 +22,7 @@ My background
 Let me introduce myself in reverse order, like in a résumé.
 I'm currently affiliated with the [Chair in Photonics](http://www.chairphotonics.eu/) and the [LMOPS EA-4423](https://lmops.univ-lorraine.fr/), a joint lab by CentraleSupélec and the [Université de Lorraine](https://www.univ-lorraine.fr/).
 Before getting into my current position, I was a post-doc for a year at the same spot (Metz, France), and the same affiliations.
-Before moving to France, I did my PhD at the [Université libre de Bruxelles](https://www.ulb.be/), in Brussels, Belgium, under the supervision of [Prof. Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) on the topic of machine learning, optics and electronics... sounds familiar?
+Before moving to France, I did my PhD at the [Université libre de Bruxelles](https://www.ulb.be/), in Brussels, Belgium, under the supervision of [Prof. Serge Massar](http://liq.ulb.ac.be/index.php?option=com_content&view=article&id=11%3Aserge-massar&catid=1%3Amembres&Itemid=4) on the topic of machine learning, optics and electronics... sounds familiar, right?
 Actually, I did all of my studies -- the Bachelor and the Master's degrees -- at ULB as well. I studied physics in the first place, the thing for machine learning came later.
 And finally, since my name doesn't sound very Belgian nor French (especially if you manage to pronounce it right, which few people do), I have to reveal that I was actually born in Minsk, former Soviet Union, now Belarus. 
 There, now you know everything.
