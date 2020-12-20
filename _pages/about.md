@@ -27,7 +27,7 @@ Actually, I did all of my studies -- the Bachelor and the Master's degrees -- at
 And finally, since my name doesn't sound very Belgian nor French (especially if you can pronounce it right, which few people do), I have to reveal that I was actually born in Minsk, former Soviet Union, now Belarus. 
 There, now you know everything.
 
-More information, and in a more formal style, can be found in my [Curriculum Vitae]({{ base_path }}/files/antonik_cv_pubs_2020_12.pdf).
+More information (in a more formal style) can be found in my [Curriculum Vitae]({{ base_path }}/files/antonik_cv_pubs_2020_12.pdf).
 
 My philosophy and other hobbies
 ---
