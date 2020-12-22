@@ -22,12 +22,12 @@ These are my major journal papers (book chapters and conference proceedings not 
 2018
 ---
 * **Antonik, Piotr**, et al. "Using a reservoir computer to learn chaotic attractors, with applications to chaos synchronization and cryptography." _Physical Review E_ 98.1 (2018): 012215. [\[DOI\]](https://doi.org/10.1103/physreve.98.012215) [\[arXiv\]](https://arxiv.org/abs/1802.02844)
-* **Antonik, Piotr**, et al. "Random pattern and frequency generation using a photonic reservoir computer with output feedback." _Neural Processing Letters_ 47.3 (2018): 1041-1054. [\[DOI\]](https://doi.org/10.1007/s11063-017-9628-0)
+* **Antonik, Piotr**, et al. "Random pattern and frequency generation using a photonic reservoir computer with output feedback." _Neural Processing Letters_ 47.3 (2018): 1041-1054. [\[DOI\]](https://doi.org/10.1007/s11063-017-9628-0) [\[arXiv\]](https://arxiv.org/abs/2012.10615)
 
 2017
 ---
 * **Antonik, Piotr**, Marc Haelterman, and Serge Massar. "Brain-inspired photonic signal processor for generating periodic patterns and emulating chaotic systems." _Physical Review Applied_ 7.5 (2017): 054014. [\[DOI\]](https://doi.org/10.1103/physrevapplied.7.054014) [\[arXiv\]](https://arxiv.org/abs/1802.02026)
-* **Antonik, Piotr**, Marc Haelterman, and Serge Massar. "Online training for high-performance analogue readout layers in photonic reservoir computers." _Cognitive Computation_ 9.3 (2017): 297-306. [\[DOI\]](https://doi.org/10.1007/s12559-017-9459-3) 
+* **Antonik, Piotr**, Marc Haelterman, and Serge Massar. "Online training for high-performance analogue readout layers in photonic reservoir computers." _Cognitive Computation_ 9.3 (2017): 297-306. [\[DOI\]](https://doi.org/10.1007/s12559-017-9459-3) [\[arXiv\]](https://arxiv.org/abs/2012.10613)
 
 2016
 ---
